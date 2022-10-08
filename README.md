@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning HTML and CSS.
 - 💞️ I’m looking to collaborate on any projects open source or otherwise.
 - 📫 You can reach me via twitter @ashabaheebwa
-- 🚩 GOAL is to become a fullstack developer in Vue and Python.
+- 🚩 GOAL is to become a fullstack developer in Vue, Python and Node.
 
 
 
