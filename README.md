@@ -1,11 +1,10 @@
 ## Hello And Welcome!
 
 ###  👋 Hi, I’m Albert Ashaba Aheebwa
-- 👀 I’m interested in becoming a software engineer and developer. I am 29yrs old and I am 5 months into a career changing program of becoming a self taught developer.
-- 🌱 I’m currently learning HTML and CSS.
+- ⛳ Am a junior software developer in Python and Django.
 - 💞️ I’m looking to collaborate on any projects open source or otherwise.
 - 📫 You can reach me via twitter @ashabaheebwa
-- 🚩 GOAL is to become a fullstack developer in Vue, Python and Node.
+- 🚩 GOAL is to become the 'go to guy' for those interested in Python and Django.
 
 
 
