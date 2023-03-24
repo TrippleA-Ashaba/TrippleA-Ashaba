@@ -1,7 +1,7 @@
 ## Hello And Welcome!
 
 ###  👋 Hi, I’m Albert Ashaba Aheebwa
-- ⛳ Am a junior software developer in Python, Django, Javascript and Node.
+- ⛳ Am a software developer in Python, Django, Javascript and Node.
 - 💞️ I’m looking to collaborate on any projects open source or otherwise.
 - 📫 You can reach me via twitter @ashabaheebwa
 - 🚩 GOAL is to become the 'go to guy' for everything Python and Django.
